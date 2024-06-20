@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.background{
+    background: lightblue;
+}
+h1{
+    font-weight: 600;
+    text-align: center;
+    text-shadow: 2px 3px 4px rgb(38, 38, 115);
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+i{
+    font-size: 35px;
+}

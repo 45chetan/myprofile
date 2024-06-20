@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.first{
+    height: 500px;
+    width: 600px;
+    border: 2px solid red;
+    justify-content: center;
+    align-items: center;
+    margin-left: 350px;
+    margin-top: 70px;
+    background: rgb(228, 221, 221);
+    box-shadow: 3px 4px 5px gray;
+}
+.first h1{
+    color: red;
+    text-shadow: 1px 2px 3px black;
+}
+.first label{
+    margin-right: 5px;
+    font-size: 30px;
+    font-weight: 100;
+    color: red;
+}
+.first input{
+    height: 40px;
+    width: 150px;
+}
